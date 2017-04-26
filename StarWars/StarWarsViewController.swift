@@ -1,25 +1,24 @@
 //
-//  ViewController.swift
+//  StarWarsViewController.swift
 //  StarWars
 //
-//  Created by James Cobb on 3/25/17.
+//  Created by James Cobb on 3/27/17.
 //  Copyright © 2017 James Cobb. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class StarWarsViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
 }
-
